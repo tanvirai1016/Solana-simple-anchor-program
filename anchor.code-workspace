@@ -1,9 +1,1 @@
-{
-	"folders": [
-		{
-			"uri": "vscode-remote://wsl+ubuntu/home/thanvir/solana/anchor/anchor"
-		}
-	],
-	"remoteAuthority": "wsl+ubuntu",
-	"settings": {}
-}
+
